@@ -1,0 +1,10 @@
+Starbucks,5.5,drink
+Starbucks,6.5,dining out
+Chipotle,15,dining out
+rent,1000,housing
+utility bill,55.9,housing
+vegetables and fruits,55,grocery
+gas,100.23,vehicle
+Wendy's,10.9,dining out
+Starbucks,3.5,drink
+Kampai sushi,35.5,dining out

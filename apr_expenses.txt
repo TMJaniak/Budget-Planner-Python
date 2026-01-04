@@ -1,0 +1,13 @@
+Starbucks,5.5,drink
+Starbucks,6.5,dining out
+Chipotle,15,dining out
+Raising Cane's,13,dining out
+rent,1000,housing
+utility bill,52.9,housing
+vegetables and fruits,35,grocery
+books,129,study
+pens,9.9,study
+gas,200.59,vehicle
+Wendy's,10.9,dining out
+Starbucks,3.5,drink
+Kampai sushi,35.5,dining out

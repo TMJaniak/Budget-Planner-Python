@@ -1,0 +1,10 @@
+Starbucks,5.5,drink
+Raising Cane's,13,dining out
+rent,1000,housing
+utility bill,52.9,housing
+vegetables and fruits,95,grocery
+gas,200.59,vehicle
+Starbucks,3.5,drink
+car inspection,34,vehicle
+car registration,100,vehicle
+clothes,79,personal

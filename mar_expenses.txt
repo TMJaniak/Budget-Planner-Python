@@ -1,0 +1,10 @@
+Chipotle,15,dining out
+rent,1000,housing
+utility bill,61.3,housing
+vegetables and fruits,50,grocery
+gas,100.23,vehicle
+Wendy's,10.9,dining out
+Starbucks,3.5,drink
+Kampai sushi,35.5,dining out
+shampoo,35.5,personal
+Claritin,10.97,medical
